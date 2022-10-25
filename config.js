@@ -14,8 +14,8 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = ['50495745934'], 
+global.mods = ['59169082575' ] 
+global.prems = ['59169082575'], 
 
 global.APIs = { // API Prefix.
   
